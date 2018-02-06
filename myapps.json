@@ -3,25 +3,30 @@
     "id": 1,
     "name": "Setting",
     "iconName": "ic_action_settings"
+    ,"appurl":"aa"
   },
   {
     "id": 6,
     "name":"More apps",
     "iconName":"ic_offline_story"
+    ,"appurl":"aa"
   },
   {
     "id": 2,
     "name": "Protect",
     "iconName": "ic_lock_white"
+    ,"appurl":"aa"
   },
   {
     "id": 3,
     "name": "Rate",
     "iconName": "ic_rate_white"
+    ,"appurl":"aa"
   },
   {
     "id": 4,
     "name": "Feedback",
     "iconName": "ic_feedback_white"
+    ,"appurl":"aa"
   }
 ]
