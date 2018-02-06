@@ -2,56 +2,63 @@
   {
     "id": 1,
     "name": "कॉलेज-गर्ल-की-कहानिया",
-    "iconName": "ic_action_settings"
+    "iconName": "ic_collagegirl"
     ,"appurl":"com.mastram.collagegirl"
   },
   {
     "id": 2,
-    "name":"गर्ल-की-कहानिया",
-    "iconName":"ic_offline_story"
+    "name":"स्कूल गर्ल की कहानिया",
+    "iconName":"ic_schoolgirl"
     ,"appurl":"com.mastram.hotschoolgirl"
   },
   {
     "id": 3,
-    "name": "Protect",
+    "name": "ic_office",
     "iconName": "ऑफीस की-कहानिया"
     ,"appurl":"com.mastram.officestory"
   },
   {
     "id": 4,
     "name": "पडोसी भाभी की कहानिया",
-    "iconName": "ic_rate_white"
+    "iconName": "ic_padosibhabhi"
     ,"appurl":"com.mastram.padosibhabhi"
   },
   {
     "id": 5,
     "name": "प्यासी-भाभी-की-कहानिया",
-    "iconName": "ic_feedback_white"
+    "iconName": "ic_payasibhabhi"
     ,"appurl":"com.mastram.payasibhabhi"
   },
   {
     "id": 6,
     "name": "सुहागरात की-कहानिया",
-    "iconName": "ic_feedback_white"
-    ,"appurl":"com"
+    "iconName": "ic_suhagraat"
+    ,"appurl":"com.mastram.suhagrat"
   }
   ,
   {
     "id": 7,
     "name": "टीचर की-कहानिया",
-    "iconName": "ic_feedback_white"
-    ,"appurl":"com"
+    "iconName": "ic_teacher"
+    ,"appurl":"com.mastram.teacher"
   },
   {
     "id": 8,
-    "name": "टीचर की-कहानिया",
-    "iconName": "ic_feedback_white"
-    ,"appurl":"com"
+    "name": "bada kesekaren",
+    "iconName": "ic_panis"
+    ,"appurl":"com.mastram.longandbig"
   },
   {
     "id": 9,
     "name": "टीचर की-कहानिया",
-    "iconName": "ic_feedback_white"
-    ,"appurl":"com"
+    "iconName": "ic_newsex"
+    ,"appurl":"com.mastram.newhotstories"
+  }
+  ,
+  {
+    "id": 9,
+    "name": "जीजासाली-की-कहानिया",
+    "iconName": "ic_jijasali"
+    ,"appurl":"com.mastram.jijasali"
   }
 ]
