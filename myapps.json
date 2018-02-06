@@ -1,32 +1,57 @@
 [
   {
     "id": 1,
-    "name": "Setting",
+    "name": "कॉलेज-गर्ल-की-कहानिया",
     "iconName": "ic_action_settings"
-    ,"appurl":"aa"
-  },
-  {
-    "id": 6,
-    "name":"More apps",
-    "iconName":"ic_offline_story"
-    ,"appurl":"aa"
+    ,"appurl":"com.mastram.collagegirl"
   },
   {
     "id": 2,
-    "name": "Protect",
-    "iconName": "ic_lock_white"
-    ,"appurl":"aa"
+    "name":"गर्ल-की-कहानिया",
+    "iconName":"ic_offline_story"
+    ,"appurl":"com.mastram.hotschoolgirl"
   },
   {
     "id": 3,
-    "name": "Rate",
-    "iconName": "ic_rate_white"
-    ,"appurl":"aa"
+    "name": "Protect",
+    "iconName": "ऑफीस की-कहानिया"
+    ,"appurl":"com.mastram.officestory"
   },
   {
     "id": 4,
-    "name": "Feedback",
+    "name": "पडोसी भाभी की कहानिया",
+    "iconName": "ic_rate_white"
+    ,"appurl":"com.mastram.padosibhabhi"
+  },
+  {
+    "id": 5,
+    "name": "प्यासी-भाभी-की-कहानिया",
     "iconName": "ic_feedback_white"
-    ,"appurl":"aa"
+    ,"appurl":"com.mastram.payasibhabhi"
+  },
+  {
+    "id": 6,
+    "name": "सुहागरात की-कहानिया",
+    "iconName": "ic_feedback_white"
+    ,"appurl":"com"
+  }
+  ,
+  {
+    "id": 7,
+    "name": "टीचर की-कहानिया",
+    "iconName": "ic_feedback_white"
+    ,"appurl":"com"
+  },
+  {
+    "id": 8,
+    "name": "टीचर की-कहानिया",
+    "iconName": "ic_feedback_white"
+    ,"appurl":"com"
+  },
+  {
+    "id": 9,
+    "name": "टीचर की-कहानिया",
+    "iconName": "ic_feedback_white"
+    ,"appurl":"com"
   }
 ]
