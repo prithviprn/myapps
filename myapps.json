@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Setting",
+    "iconName": "ic_action_settings"
+  },
+  {
+    "id": 6,
+    "name":"More apps",
+    "iconName":"ic_offline_story"
+  },
+  {
+    "id": 2,
+    "name": "Protect",
+    "iconName": "ic_lock_white"
+  },
+  {
+    "id": 3,
+    "name": "Rate",
+    "iconName": "ic_rate_white"
+  },
+  {
+    "id": 4,
+    "name": "Feedback",
+    "iconName": "ic_feedback_white"
+  }
+]
